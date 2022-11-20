@@ -1,13 +1,13 @@
 Sem 7
 
-
+/*
 Recursive fibbonacci:
 Time Complexity: O(n*2n)
 Auxiliary Space: O(n), For recursion call stack.
 Iterative fibbonacci:
 Time Complexity: O(n) 
 Auxiliary Space: O(1)
-
+*/
 
 
 Huffman Coding :
@@ -32,6 +32,6 @@ The use of 2-D array of size ‘N*W’.
 N Queens
 Time Complexity: O(N!)
 Auxiliary Space: O(N^2)
-
+ 
 
 
